@@ -1,0 +1,4 @@
+[repositories]
+  local
+  my-ivy-proxy-releases: https:/example.repo.com/artifactory/scala-sbt-ivy-releases/, [organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]
+  my-maven-proxy-releases: https:/example.repo.com/artifactory/maven-central/
